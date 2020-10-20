@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: "/static/admin"
 webhook_url: 
 sections:
+- type: document
+  path: generative_models
+  label: Generative Models
+  match: "**/*"
 - type: heading
   label: Stuff
 - type: directory
