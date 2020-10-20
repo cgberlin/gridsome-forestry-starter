@@ -7,7 +7,6 @@ sections:
 - type: document
   path: generative_models
   label: Generative Models
-  match: "**/*"
 - type: heading
   label: Stuff
 - type: directory
@@ -23,7 +22,7 @@ sections:
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_output_directory: dist
