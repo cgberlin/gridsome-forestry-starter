@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/seventhspark.png"
+thumbnail: "/uploads/ss.jpg"
 title: The Seventh Spark Company
 date: 2019-01-03
 categories: []
