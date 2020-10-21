@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/logo-no-text.svg"
+thumbnail: "/uploads/logo_mm.svg"
 title: Manhattan Mobile
 date: 2019-01-04
 categories: []
