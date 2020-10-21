@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/ian-dooley-281897-unsplash.jpg"
+thumbnail: "/uploads/logo-no-text.svg"
 title: Manhattan Mobile
 date: 2019-01-04
 categories: []
