@@ -1,12 +1,10 @@
 ---
-thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
-title: Porta400
+thumbnail: "/uploads/seventhspark.png"
+title: The Seventh Spark Company
 date: 2019-01-03
-categories:
-- photography
-- yellow
-project_bg_color: ''
-project_fg_color: ''
+categories: []
+project_bg_color: "#000000"
+project_fg_color: "#FFFFFF"
 
 ---
 ![](/uploads/markus-spiske-516263-unsplash.jpg)
