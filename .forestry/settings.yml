@@ -4,11 +4,18 @@ auto_deploy: false
 admin_path: "/static/admin"
 webhook_url: 
 sections:
+- type: directory
+  path: journal
+  label: Journal
+  create: all
+  match: "**/*"
+  templates:
+  - journal
+- type: heading
+  label: Stuff
 - type: document
   path: generative_models
   label: Generative Models
-- type: heading
-  label: Stuff
 - type: directory
   path: projects
   label: Projects/Companies
