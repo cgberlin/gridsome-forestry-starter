@@ -1,7 +1,7 @@
 ---
 thumbnail: "/uploads/aliza.png"
 title: Aliza Technologies
-date: "2020"
+date: 2020 - Now
 categories:
 - Computer Vision
 - Generative Neural Networks
