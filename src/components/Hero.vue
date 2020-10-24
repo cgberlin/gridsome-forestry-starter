@@ -1,8 +1,15 @@
 <template>
+  <div class="video-wrapper">
+    <video playsinline autoplay muted loop poster="cut.png" id="bgvid">
+      <source src="fadecut.mp4" type="video/mp4">
+    </video>
     <div class="hero">
+      <div class="hero-text-container">
         <h1 class="hero-title" v-html="settings.hero_title" />
         <h2 class="hero-subtitle" v-html="settings.hero_subtitle" />
+      </div>
     </div>
+  </div>
 </template>
 
 <script>
@@ -15,15 +22,40 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss">
 .hero {
     text-align: center;
     width: 480px;
-    max-width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin: 0 auto;
-    padding: 4rem 0 8rem 0;
+    position:absolute;
+    flex-flow: column;
+    top:0;
+    padding: 5rem;
 }
-
+.video-wrapper {
+  padding: 5rem;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+}
+#bgvid {
+  width: 100%;
+  max-height: 100%;
+}
+.header-video {
+  position: absolute; 
+  top: 0; left:0;
+  width: 100%; 
+  height: 100%; 
+  z-index: -1;
+  object-fit: cover;
+}
 .hero-title {
     font-size: 3rem;
     font-weight: 700;
@@ -41,6 +73,9 @@ export default {
     line-height: 1.68;
     padding: 0;
     margin: 0;
-    opacity: 0.6;
+}
+.hero-text-container {
+  background-color: rgb(43, 43, 43);
+  padding: 2rem;
 }
 </style>

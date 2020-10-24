@@ -4,9 +4,7 @@
     <div class="container">
       <div class="journal-hero">
         <h1 class="journal-header">
-          Random outputs from models I am working on.
-          Usually generative, often horrifying. 
-          Other things. 
+          Random output.
         </h1>
       </div>
     </div>
@@ -60,6 +58,7 @@ export default {
   font-weight: 700;
   padding: 0;
   margin: 0;
+  color: #3d3d3d;
 }
 .journal-post {
   display: block;

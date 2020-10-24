@@ -44,7 +44,15 @@ body.dark {
   --color-contrast: rgb(255, 255, 255);
   --color-contrast-1: rgb(243, 243, 243);
 }
+body::-webkit-scrollbar {
+  display: none;
+}
 
+/* Hide scrollbar for IE, Edge and Firefox */
+body {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
 h1 {
   letter-spacing: -0.01em;
 }
