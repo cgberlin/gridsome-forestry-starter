@@ -1,7 +1,7 @@
 ---
 thumbnail: "/uploads/seventh.svg"
 title: The Seventh Spark Company
-date: "2019"
+date: 2018-2020
 categories:
 - 'Mobile Development '
 - Backend Development
