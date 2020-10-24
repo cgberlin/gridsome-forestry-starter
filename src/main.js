@@ -8,6 +8,4 @@ export default function(Vue, { head }) {
   head.bodyAttrs = {
     class: settings.dark_mode ? "dark" : ""
   };
-  head.script.push({src: 'https://www.googletagmanager.com/gtag/js?id=G-TTQ8YJCDG4', body: true})
-  head.script.push({src: 'analytics.js', body: true})
 }

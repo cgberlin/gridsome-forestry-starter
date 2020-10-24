@@ -9,6 +9,12 @@ module.exports = {
   siteDescription: "Software Engineer",
   plugins: [
     {
+      use: '@gridsome/plugin-google-analytics',
+      options: {
+        id: 'UA-168916645-3'
+      }
+    },
+    {
       use: "@gridsome/source-filesystem",
       options: {
         path: "projects/**/*.md",
