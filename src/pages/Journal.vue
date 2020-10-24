@@ -4,7 +4,7 @@
     <div class="container">
       <div class="journal-hero">
         <h1 class="journal-header">
-          Random output.
+          Latent Space
         </h1>
       </div>
     </div>
