@@ -12,3 +12,4 @@ project_bg_color: "#000000"
 project_fg_color: "#FFFFFF"
 
 ---
+![](/uploads/web-case-study.jpg)
