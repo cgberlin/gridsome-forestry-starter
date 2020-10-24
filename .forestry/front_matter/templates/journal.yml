@@ -29,11 +29,11 @@ fields:
     source:
       type: simple
       section: authors
-      file: data/authors/nichlas-w-andersen.json
+      file: data/authors/cody-berlin.json
     required: true
     options:
-    - Nichlas W. Andersen
+    - Cody Berlin
   label: Author
-  default: Nichlas W. Andersen
+  default: Cody Berlin
 pages:
 - journal/new-website.md
