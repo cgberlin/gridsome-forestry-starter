@@ -9,7 +9,7 @@ categories:
 - Game Development
 - Backend Development
 - WebGL Development
-project_bg_color: "#FFFFFF"
+project_bg_color: "#000000"
 project_fg_color: "#FF8D00"
 
 ---
