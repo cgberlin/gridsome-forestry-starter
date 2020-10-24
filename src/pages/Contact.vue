@@ -3,10 +3,18 @@
     <div class="container">
 
       <div class="contact-header">
-        <h1 class="contact-title">Message me.</h1>
-        <p>Leave me a note with any questions you might have, I'll get back to you as soon as possible.</p>
+        <h1 class="contact-title">Find Me</h1>
+        <p>Please include a relevant subject in any email.</p>
       </div>
-
+      <div class="message">
+          <label for="message" class="label">Email</label>
+          <p>codyberlin@gmail.com</p>
+          <label for="message" class="label">LinkedIn</label>
+          <p>https://www.linkedin.com/in/cgberlin/</p>
+          <label for="message" class="label">Github</label>
+          <p>https://github.com/cgberlin</p>
+      </div>
+      <!--
       <form class="contact-form" name="contact">
 
         <div class="sender-info">
@@ -28,7 +36,7 @@
         <button class="button">Submit form</button>
 
       </form>
-
+    -->
     </div>
   </Layout>
 </template>
