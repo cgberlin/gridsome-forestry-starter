@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/aliza-1.png"
+thumbnail: "/uploads/aliza.png"
 title: Aliza Technologies
 date: "2020"
 categories:
