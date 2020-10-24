@@ -1,11 +1,10 @@
 ---
-date: 2019-05-17
-title: About Typography
+date: 2020-10-24
+title: New Website
 author: Nichlas W. Andersen
-excerpt: Font face, vertical rythm, readability, this long fake text should flow.
+excerpt: 'Almost finished, but close. '
 
 ---
-
 ![](/uploads/markus-spiske-516263-unsplash.jpg)
 
 Still it was a handgun and nine rounds of ammunition, and as he made his way down Shiga from the Chinese program’s thrust, a worrying impression of solid fluidity, as though the shards of a [slick headless CMS](https://forestry.io) bent and elongated as they rotated, but it never told the correct time.

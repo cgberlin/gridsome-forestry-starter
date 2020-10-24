@@ -30,8 +30,3 @@ fields:
     required: false
   label: Date
   default: '2020'
-pages:
-- projects/3d-graff.md
-- projects/chelsea-landmark.md
-- projects/ios-concept.md
-- projects/sunk.md
