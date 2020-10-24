@@ -1,7 +1,7 @@
 ---
 thumbnail: "/uploads/manhattan_m.svg"
 title: Manhattan Mobile
-date: "2015"
+date: 2016-2018
 categories:
 - Mobile Development
 - Backend Development
