@@ -7,6 +7,6 @@ categories:
 - Generative Neural Networks
 - Backend Development
 project_bg_color: "#031623"
-project_fg_color: "#574AEC"
+project_fg_color: "#5154E2"
 
 ---
