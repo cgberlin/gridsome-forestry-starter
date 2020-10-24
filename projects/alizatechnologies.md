@@ -6,7 +6,7 @@ categories:
 - Computer Vision
 - Generative Neural Networks
 - Backend Development
-project_bg_color: "#000000"
+project_bg_color: "#031623"
 project_fg_color: "#574AEC"
 
 ---
