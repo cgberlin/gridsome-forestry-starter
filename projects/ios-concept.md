@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/web-case-study.jpg"
+thumbnail: "/uploads/seventh.svg"
 title: The Seventh Spark Company
 date: 2019-01-03
 categories: []
