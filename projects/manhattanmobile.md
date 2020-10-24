@@ -7,6 +7,6 @@ categories:
 - Backend Development
 - Frontend Development
 project_bg_color: "#000000"
-project_fg_color: "#1A89D3"
+project_fg_color: "#2787C8"
 
 ---
