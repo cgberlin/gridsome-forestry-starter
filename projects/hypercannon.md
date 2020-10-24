@@ -1,5 +1,5 @@
 ---
-date: "2018"
+date: 2018 - Now
 year: 2019
 title: Hypercannon
 category: Identity
@@ -13,4 +13,3 @@ project_bg_color: "#000000"
 project_fg_color: "#FF8D00"
 
 ---
-Yes
