@@ -1,7 +1,7 @@
 ---
 thumbnail: "/uploads/manhattan_m.svg"
 title: Manhattan Mobile
-date: 2019-01-04
+date: "2020"
 categories:
 - Mobile Development
 - Backend Development
