@@ -1,6 +1,6 @@
 ---
 date: 2020-10-24
-author: Nichlas W. Andersen
+author: Cody Berlin
 title: New Website
 excerpt: WIP
 
