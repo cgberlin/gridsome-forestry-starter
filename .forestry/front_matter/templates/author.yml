@@ -15,8 +15,5 @@ fields:
 - type: file
   name: avatar
   label: Avatar
-- type: text
-  name: twitter
-  label: Twitter
 pages:
 - author/cody-berlin.md
