@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/aliza.png"
-title: Aliza
+title: Aliza Technologies
 date: 2019-02-06
 categories: []
 project_bg_color: "#000000"
