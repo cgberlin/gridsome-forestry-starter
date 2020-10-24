@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/2b36ff_2ad43ddc07a946c4883a858e0b97415a_mv2.webp"
+thumbnail: "/uploads/aliza.png"
 title: Aliza
 date: 2019-02-06
 categories: []
