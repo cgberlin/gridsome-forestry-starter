@@ -4,7 +4,9 @@
     <div class="container">
       <div class="journal-hero">
         <h1 class="journal-header">
-          a wise person once said...
+          Random outputs from models I am working on.
+          Usually generative, often horrifying. 
+          Other things. 
         </h1>
       </div>
     </div>
