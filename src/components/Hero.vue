@@ -1,14 +1,14 @@
 <template>
   <div class="video-wrapper">
-    <video playsinline autoplay muted loop poster="cut.png" id="bgvid">
-      <source src="fadecut.mp4" type="video/mp4">
-    </video>
     <div class="hero">
       <div class="hero-text-container">
         <h1 class="hero-title" v-html="settings.hero_title" />
         <h2 class="hero-subtitle" v-html="settings.hero_subtitle" />
       </div>
     </div>
+    <video playsinline autoplay muted loop poster="cut.png" id="bgvid">
+      <source src="fadecut.mp4" type="video/mp4">
+    </video>
   </div>
 </template>
 
@@ -78,4 +78,13 @@ export default {
   background-color: rgb(43, 43, 43);
   padding: 2rem;
 }
+@media (max-width: 500px) {
+  .hero-text-container {
+    background-color: transparent;
+  }
+  .hero-subtitle p {
+      font-weight: 700;
+  }
+}
+
 </style>
