@@ -7,4 +7,3 @@ project_bg_color: "#000000"
 project_fg_color: "#1A89D3"
 
 ---
-![](/uploads/ian-dooley-281897-unsplash.jpg)
