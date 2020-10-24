@@ -37,7 +37,7 @@ export default {
     padding: 5rem;
 }
 .video-wrapper {
-  padding: 5rem;
+  margin-bottom: 2rem;
   position: relative;
   display: flex;
   align-items: center;
