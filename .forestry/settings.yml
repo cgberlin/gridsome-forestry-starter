@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: journal
-  label: Journal
+  label: Things
   create: all
   match: "**/*"
   templates:
