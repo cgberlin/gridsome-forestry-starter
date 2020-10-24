@@ -7,6 +7,7 @@ categories:
 - Backend Development
 - Machine Learning
 - Natural Language Processing
+- Frontend Development
 project_bg_color: "#000000"
 project_fg_color: "#FFFFFF"
 
