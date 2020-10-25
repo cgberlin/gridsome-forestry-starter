@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/aliza.png"
-title: Aliza Technologies
+title: Aliza
 date: 2020 - Now
 categories:
 - Computer Vision
