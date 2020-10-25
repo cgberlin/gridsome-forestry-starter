@@ -12,8 +12,10 @@ project_fg_color: "#5154E2"
 ---
 ![](/uploads/alizabinxy.webp)
 
-Using deep generative models to bring things to life.
+Using deep generative models to bring things to life, including myself.
 
 [Aliza](https://www.aliza.ai/ "https://www.aliza.ai/")
 
-![](/uploads/me.gif)
+My mother is horrified.
+
+![](/uploads/me.gif)![](/uploads/me3.gif)
