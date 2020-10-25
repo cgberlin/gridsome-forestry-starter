@@ -18,6 +18,4 @@ Using deep generative models to bring things to life, including myself.
 
 My mother is horrified.
 
-![](/uploads/me.gif)![](/uploads/me3.gif)
-
-:)
+![](https://lucianet.s3.amazonaws.com/me.gif)![](https://lucianet.s3.amazonaws.com/me3.gif)
