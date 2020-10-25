@@ -74,5 +74,11 @@ export default {
     grid-column: auto / span 2;
   }
 }
+@media (max-width: 600px) {
+  .thumbnail {
+    height: auto;
+    width: 100%;
+  }
+}
 
 </style>
