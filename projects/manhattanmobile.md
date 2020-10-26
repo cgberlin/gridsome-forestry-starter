@@ -11,3 +11,5 @@ project_fg_color: "#2787C8"
 
 ---
 [Manhattan Mobile](https://www.manhattanmobile.com/ "https://www.manhattanmobile.com/")
+
+Successfully completed numerous projects primarily with early stage companies across a variety of technology stacks. 
