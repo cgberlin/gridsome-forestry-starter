@@ -7,5 +7,3 @@ excerpt: 'StyleGAN2 + differential augmentations has made iterating on my audio-
 
 ---
 ![](/uploads/mandala2.jpg)
-
-[slandermefjus_optim.mp4](/uploads/slandermefjus_optim.mp4 "slandermefjus_optim.mp4")
