@@ -8,7 +8,7 @@ categories:
 - Machine Learning
 - Natural Language Processing
 - Frontend Development
-project_bg_color: "#2B2B2B"
+project_bg_color: "#000000"
 project_fg_color: "#FFFFFF"
 
 ---
