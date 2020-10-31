@@ -195,7 +195,9 @@ Maddox frowned and followed him into the kitchen, clutching the bottle.
 
 "You're doing great. I'll wait outside."
 
-Maddox nodded and gritted his teeth, then turned to the wall and put his fist against it. His hand burned with pain, but he forced it forward and flexed his muscles, feeling the biceps flex, straining the skin.
+Maddox nodded and gritted his teeth, then turned to the wall and put his fist against it. 
+
+His hand burned with pain, but he forced it forward and flexed his muscles, feeling the biceps flex, straining the skin.
 
 He gritted his teeth harder and grabbed the bottle, swinging it back and forth a few times.
 
