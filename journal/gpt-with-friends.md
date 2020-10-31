@@ -187,7 +187,9 @@ Maddox frowned and followed him into the kitchen, clutching the bottle.
 
 "You don't have to. I'll come in after a minute or two to watch."
 
-"Don't go in there." Maddox looked at his half brother, his eyes wide.
+"Don't go in there." 
+
+Maddox looked at his half brother, his eyes wide.
 
 "I'll come in after a minute or two."
 
