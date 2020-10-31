@@ -36,4 +36,5 @@ fields:
   label: Author
   default: Cody Berlin
 pages:
+- journal/gpt-with-friends.md
 - journal/new-website.md
