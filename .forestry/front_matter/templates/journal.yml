@@ -44,5 +44,6 @@ fields:
   label: Streamable URLs
   description: List of streamable video urls to display above the text.
 pages:
+- journal/audio-reactive-stylegan-generation-is-surprisingly-soothing..md
 - journal/gpt-with-friends.md
 - journal/new-website.md
