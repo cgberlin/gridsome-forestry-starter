@@ -20,7 +20,7 @@
             </div>
           </div>          
         </div>
-
+        <div v-for="(url,index) in $page.post.streamable_urls" :key=index style="width: 100%; height: 0px; position: relative; padding-bottom: 100.000%;"><iframe :src="url" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
         <JournalContent :content="$page.post.content" />
 
       </div>
@@ -36,6 +36,7 @@ query JournalPost ($path: String!) {
     date (format: "D. MMMM YYYY")
     timeToRead
     content
+    streamable_urls
   }
 }
 </page-query>
@@ -45,7 +46,7 @@ import JournalContent from "@/components/JournalContent"
 
 export default {
   components: {
-    JournalContent
+    JournalContent,
   },
   metaInfo () {
     return {
