@@ -35,6 +35,14 @@ fields:
     - Cody Berlin
   label: Author
   default: Cody Berlin
+- name: streamable_urls
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Streamable URLs
+  description: List of streamable video urls to display above the text.
 pages:
 - journal/gpt-with-friends.md
 - journal/new-website.md
