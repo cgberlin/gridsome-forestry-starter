@@ -10,6 +10,6 @@ streamable_urls:
 - https://streamable.com/e/hbj6qu
 
 ---
-Bottom videos were with StyleGAN2-ADA, will do a better short write up on the audio generation/etc. soon just to log it here along with my material generation results. 
+Bottom videos were with StyleGAN2-ADA, will do a better short write up on the audio generation/etc. soon just to log it here along with my material generation results.
 
-The tldr of the audio generation is in the paper ["Stylizing Audio Reactive Visuals" by Han-Hung Lee Et al. ]()
+The tldr of the audio generation is in the paper ["Stylizing Audio Reactive Visuals"](https://neurips2019creativity.github.io/doc/Stylizing%20Audio%20Reactive%20Visuals.pdf) by Han-Hung Lee Et al. 
