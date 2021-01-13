@@ -15,7 +15,3 @@ project_fg_color: "#5154E2"
 Using deep generative models to bring things to life, including myself.
 
 [Aliza](https://www.aliza.ai/ "https://www.aliza.ai/")
-
-My mother is horrified.
-
-![](https://lucianet.s3.amazonaws.com/me.gif)![](https://lucianet.s3.amazonaws.com/me3.gif)
