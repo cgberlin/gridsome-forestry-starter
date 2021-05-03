@@ -1,7 +1,7 @@
 ---
 thumbnail: "/uploads/aliza.png"
 title: Aliza
-date: 2020 - Now
+date: 2020 - 2021
 categories:
 - Computer Vision
 - Generative Neural Networks
