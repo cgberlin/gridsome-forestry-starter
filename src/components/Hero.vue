@@ -75,7 +75,6 @@ export default {
     margin: 0;
 }
 .hero-text-container {
-  background-color: rgb(43, 43, 43);
   padding: 2rem;
 }
 @media (max-width: 500px) {

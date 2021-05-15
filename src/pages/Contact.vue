@@ -7,8 +7,8 @@
         <p>Please include a relevant subject in any email.</p>
       </div>
       <div class="message">
-          <label for="message" class="label">Email</label>
-          <p>codyberlin@gmail.com</p>
+          <label for="message" class="label">Work Email</label>
+          <p>cody autograph.io</p>
           <label for="message" class="label">LinkedIn</label>
           <p>https://www.linkedin.com/in/cgberlin/</p>
           <label for="message" class="label">Github</label>
