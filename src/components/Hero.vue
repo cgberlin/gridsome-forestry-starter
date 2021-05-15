@@ -6,9 +6,26 @@
         <h2 class="hero-subtitle" v-html="settings.hero_subtitle" />
       </div>
     </div>
-    <video playsinline autoplay muted loop poster="cut.png" id="bgvid">
-      <source src="fadecut.mp4" type="video/mp4">
-    </video>
+    <div
+      style="width: 100%; height: 0px; position: relative; padding-bottom: 100%"
+    >
+      <iframe
+        src="https://streamable.com/e/dgu1y5?autoplay=1&nocontrols=1"
+        frameborder="0"
+        width="100%"
+        height="100%"
+        allowfullscreen
+        allow="autoplay"
+        style="
+          width: 100%;
+          height: 100%;
+          position: absolute;
+          left: 0px;
+          top: 0px;
+          overflow: hidden;
+        "
+      ></iframe>
+    </div>
   </div>
 </template>
 
@@ -16,25 +33,25 @@
 export default {
   data() {
     return {
-      settings: require("../../data/theme.json")
-    }
-  }
-}
+      settings: require("../../data/theme.json"),
+    };
+  },
+};
 </script>
 
 <style lang="scss">
 .hero {
-    text-align: center;
-    width: 480px;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 0 auto;
-    position:absolute;
-    flex-flow: column;
-    top:0;
-    padding: 5rem;
+  text-align: center;
+  width: 480px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  position: absolute;
+  flex-flow: column;
+  top: 0;
+  z-index: 10;
 }
 .video-wrapper {
   margin-bottom: 2rem;
@@ -49,41 +66,45 @@ export default {
   max-height: 100%;
 }
 .header-video {
-  position: absolute; 
-  top: 0; left:0;
-  width: 100%; 
-  height: 100%; 
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
   z-index: -1;
   object-fit: cover;
 }
 .hero-title {
-    font-size: 3rem;
-    font-weight: 700;
-    padding: 0;
-    margin: 0 0 2rem 0;
+  font-size: 3rem;
+  font-weight: 400;
+  padding: 0;
+  margin: 0;
+  color: black;
 }
 .hero-title p,
 .hero-subtitle p {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 .hero-subtitle {
-    font-size: 1.15em;
-    font-weight: 400;
-    line-height: 1.68;
-    padding: 0;
-    margin: 0;
+  font-size: 2rem;
+  font-weight: 100;
+  padding: 0;
+  margin: 0;
+  color: black;
 }
 .hero-text-container {
-  padding: 2rem;
+  height: 92%;
+  justify-content: space-between;
+  display: flex;
+  flex-flow: column;
 }
 @media (max-width: 500px) {
-  .hero-text-container {
-    background-color: transparent;
+  .hero-title {
+    font-size: 2rem;
   }
-  .hero-subtitle p {
-      font-weight: 700;
+  .hero-subtitle {
+    font-size: 1.5rem;
   }
 }
-
 </style>
