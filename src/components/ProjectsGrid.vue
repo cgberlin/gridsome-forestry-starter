@@ -81,6 +81,10 @@ export default {
 @media (min-width: 920px) {
 }
 @media (max-width: 600px) {
+  .project {
+    width: 90vw;
+    margin-top: 5rem;
+  }
   .thumbnail {
     height: auto;
     width: 90vw;
