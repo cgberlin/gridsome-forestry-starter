@@ -6,26 +6,9 @@
         <h2 class="hero-subtitle" v-html="settings.hero_subtitle" />
       </div>
     </div>
-    <div
-      style="width: 100%; height: 0px; position: relative; padding-bottom: 100%"
-    >
-      <iframe
-        src="https://streamable.com/e/dgu1y5?autoplay=1&nocontrols=1"
-        frameborder="0"
-        width="100%"
-        height="100%"
-        allowfullscreen
-        allow="autoplay"
-        style="
-          width: 100%;
-          height: 100%;
-          position: absolute;
-          left: 0px;
-          top: 0px;
-          overflow: hidden;
-        "
-      ></iframe>
-    </div>
+    <video playsinline autoplay muted loop poster="backg1.png" id="bgvid">
+      <source src="backg.mp4" type="video/mp4">
+    </video>
   </div>
 </template>
 
