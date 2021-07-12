@@ -1,6 +1,6 @@
 ---
 date: 2021 - Now
-thumbnail: "/uploads/640_final.gif"
+thumbnail: "/uploads/whiteautograph.svg"
 title: Autograph
 categories: []
 project_bg_color: "#000000"
